@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "rohit",
+      "password": "12345",
+      "hwid": "",
+      "expiry": "2025-12-31"
+    }
+  ]
+}
